@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run Warehouse Management System",
+      "request": "launch",
+      "mainClass": "edu.college.wms.Main",
+      "projectName": "warehouse-management-system"
+    }
+  ]
+}
